@@ -20,6 +20,13 @@ Second year Computer Science (AI/ML) student focused on solving problems and bui
   <img src="https://img.shields.io/badge/SDN-Networking-red?style=flat-square"/>
 </p>
 
+
+## 📊 Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vismay1001&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismay1001&layout=compact&hide_border=true" height="150"/>
+</p>
 ---
 
 ## 📌 Projects
