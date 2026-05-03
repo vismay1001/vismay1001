@@ -44,8 +44,8 @@ Second year Computer Science (AI/ML) student focused on solving problems and bui
 
 ---
 
-### 🗂️ PES Version Control System (C)
-- Implemented a simplified version control system  
+### 🗂️ PES Version Control System (As a academic project)
+- Implemented a simplified version control system 
 - Worked on indexing, commit tracking, and file state management  
 
 ---
