@@ -21,13 +21,12 @@ Second year Computer Science (AI/ML) student focused on solving problems and bui
 </p>
 
 
-## 📊 Activity
+### 📊 Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vismay1001&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vismay1001&show_icons=true&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismay1001&layout=compact&hide_border=true" height="150"/>
 </p>
----
 
 ## 📌 Projects
 
